@@ -1,3 +1,11 @@
+NOTE: This was a project to create an AHK automation script to automate Skype For Business for lecturers at Adelaide TAFE.
+It was to provide a simple means of automatically recording a session immediately on log in. It is accompanied with a
+setup utility (a WPF project) and an installer created using Inno Setup.
+
+below is an excerpt from an included readme file. My email has been omitted to avoid nuisance emails and internet stalkers.
+
+----------
+
 Attention future coders...
 
 Here are all the source files for this project. If you want to modify them, it is recommended that you place the files in c:\autoskypetest as this is the directory the Inno Setup script refers to.
@@ -33,17 +41,3 @@ Inno Setup Script - contains 'setup file script.iss' which is used in Inno Setup
 autoskypeicon.ico - possibly the worst icon ever associated with an application. Please change. Please.
 
 readme.txt - this file.
-
--------
-Contact
--------
-
-If you need to contact me about this project or would like to employ me, mail me at :-
-
-mpalmer28_work@internode.on.net
-
-If by chance you are offering employment, please let me know that you found me through TAFE. I recieve many spam offers for jobs which usually end up being a course offered by disreputable employment agencies.
-
-Thanks
-
-Matt Palmer
